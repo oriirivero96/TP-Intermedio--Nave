@@ -118,7 +118,7 @@ p {
      }
 }
 
-/**************Header ****************/
+/**********Header**********/
 .header {
      height: 72px;
      background-color: var(--background_color_cards);
@@ -321,7 +321,7 @@ p {
      stroke: var(--font_color_secondary);
 }
 
-/************ banner ***************/
+/**********banner**********/
 .banner {
      display: flex;
      flex-direction: column;
